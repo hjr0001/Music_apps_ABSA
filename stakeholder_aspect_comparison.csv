@@ -1,0 +1,13 @@
+app_name,aspect_category,total_mentions,positive_count,neutral_count,negative_count,avg_sentiment_score,pct_positive,pct_neutral,pct_negative,net_sentiment_score
+Spotify,"App Stability, Offline & Storage",659,226,41,392,-0.17754704097116844,34.3,6.2,59.5,-25.2
+Spotify,Audio Quality & Playback,176,128,6,42,0.4345926136363636,72.7,3.4,23.9,48.8
+Spotify,"Catalog, Podcasts & Content",494,117,321,56,0.1197425101214575,23.7,65.0,11.3,12.4
+Spotify,"Monetization, Ads & Free Tier",2639,392,752,1495,-0.3643918529746116,14.9,28.5,56.7,-41.8
+Spotify,"Shuffle, Queue & Recommendations",636,164,180,292,-0.15806289308176102,25.8,28.3,45.9,-20.1
+Spotify,"UI/UX, Widgets & Organization",829,172,437,220,-0.030778648974668275,20.7,52.7,26.5,-5.8
+YouTube Music,"App Stability, Offline & Storage",999,379,44,576,-0.1540924924924925,37.9,4.4,57.7,-19.8
+YouTube Music,Audio Quality & Playback,200,126,17,57,0.312151,63.0,8.5,28.5,34.5
+YouTube Music,"Catalog, Podcasts & Content",566,61,412,93,-0.054951060070671374,10.8,72.8,16.4,-5.6
+YouTube Music,"Monetization, Ads & Free Tier",1782,215,623,944,-0.3634225589225589,12.1,35.0,53.0,-40.9
+YouTube Music,"Shuffle, Queue & Recommendations",833,134,267,432,-0.3121721488595438,16.1,32.1,51.9,-35.8
+YouTube Music,"UI/UX, Widgets & Organization",1119,191,586,342,-0.107890527256479,17.1,52.4,30.6,-13.5
