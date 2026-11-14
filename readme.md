@@ -1,6 +1,6 @@
 # 🎵 Music Apps Aspect-Based Sentiment Analysis (ABSA) & Dashboard
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-red?style=for-the-badge&logo=streamlit)](https://musicappsabsa-28mvnd22mjydwlktwzyik3.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-red?style=for-the-badge&logo=streamlit)]([https://musicappsabsa-28mvnd22mjydwlktwzyik3.streamlit.app/](https://musicappsabsa-otsqcgspxviww9uggadnvw.streamlit.app/))
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 
 An end-to-end Machine Learning and Data Analytics pipeline designed to scrape user reviews of popular music streaming applications, process them using **Aspect-Based Sentiment Analysis (ABSA)**, and present actionable insights through an interactive **Streamlit Dashboard**.
