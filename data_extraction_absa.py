@@ -48,7 +48,6 @@ def scrape_app_reviews(app_id: str, app_name: str, target_count: int = 10000) ->
                     "app_name": app_name,
                     "app_id": app_id,
                     "review_id": item.get("reviewId"),
-                    "user_name": item.get("userName"),
                     "content": item.get("content"),
                     "score": item.get("score"),
                     "thumbs_up_count": item.get("thumbsUpCount", 0),
