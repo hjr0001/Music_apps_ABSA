@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1nk-aP-rte7tVDCuRa7oBMamjG5nWeUDG
 """
 
-pip install google-play-scraper pandas tqdm clean-text
+
 
 import time
 import re
