@@ -1,4 +1,6 @@
 # Music Apps Aspect-Based Sentiment Analysis (ABSA)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-red?style=for-the-badge&logo=streamlit)](https://musicappsabsa-otsqcgspxviww9uggadnvw.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 
 ## Overview
 
